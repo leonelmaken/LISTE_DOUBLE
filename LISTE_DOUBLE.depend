@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620930512 source:c:\users\hp15\documents\liste_double\liste_double.c
+	<stdio.h>
+	<stdlib.h>
+	"LISTE_DOUBLE.h"
+
+1620930510 c:\users\hp15\documents\liste_double\liste_double.h
+
